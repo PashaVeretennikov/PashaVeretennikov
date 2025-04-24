@@ -20,7 +20,7 @@
 |----------------|-----------------|-----|
 |Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/PashaVeretennikov/project_1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (T-test, Z-test).|pandas,numpy,seaborn,matplotlib,requests|
 |Проект 2 Анализ данных об оптовых продажах аудиотехники  (__[github](https://github.com/PashaVeretennikov/project_2)__)|Расчет и анализ ключевых метрик компании в динамике. Визуацлизация продаж по дням и по менеджерам компании|pandas,seaborn,matplotlib|
-|Проект 3 RFM-анализ  (__[github](https://github.com/PashaVeretennikov/project_3)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,numpy,seaborn,matplotlib|
+|Проект 3 E-commerce проект  (__[github](https://github.com/PashaVeretennikov/project_3)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,numpy,seaborn,matplotlib|
 
 
 
